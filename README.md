@@ -14,7 +14,7 @@
 
 ### *Sur quels projets? (Projets internes? En production? Décrivez en quelques mots)*
   
-  -**Arnaud Cartailler** : Exercice type de création de lookbook : de la récupération d'images, à la création de la maquette via Photoshop puis à l'intégration en mobile first.
+- **Arnaud Cartailler** : Exercice type de création de lookbook : de la récupération d'images, à la création de la maquette via Photoshop puis à l'intégration en mobile first.
 
 
 ### *Citez une réussite lors de votre stage*
