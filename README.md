@@ -2,33 +2,32 @@
 
 ### *Dans quel type d'entreprise? (ESN, agence web, start up, etc.)*
 
-- **Toto** : ESN
-- **John Doe** : Freelance
-- **Arnaud Cartailler** : SAS
+- **Nicolas** : Start up
 
 ### *Sur quelles technos, quels langages et outils?*
 
-- **Toto** : PHP/Symfony, AWS, Docker
-- **John Doe** : HTML/CSS, Bootstrap, WordPress
-- **Arnaud Cartailler** : HTML/CSS, Data-Aos, Bootstrap.
+- **Nicolas** : HTML/CSS (Bootstrap), HandleBarsJS, PhantomJS
 
 ### *Sur quels projets? (Projets internes? En production? Décrivez en quelques mots)*
   
-- **Arnaud Cartailler** : Exercice type de création de lookbook : de la récupération d'images, à la création de la maquette via Photoshop puis à l'intégration en mobile first.
-
+- **Nicolas** : Création de template en HTML/CSS pour devis, factures, rapports d'interventions;
+                Test de retour visuel après utilisation du service PhantomJS;
+                Création de type permettant la génération de variables uniques;
+                Intégration de ces variables dans les templates via HandleBarsJS; 
 
 ### *Citez une réussite lors de votre stage*
 
-- **Arnaud Cartailler** : Avoir répondu aux attentes des consignes et chaque projet sous 1 journée et demi.
+- **Nicolas** : Avoir été capable grâce à des outils simples d'être rapidement productif.
 
 ### *Citez la plus grosse difficulté rencontrée*
 
-- **Arnaud Cartailler** : Devoir prendre en main photoshop le plus rapidement possible.
+- **Nicolas** : être régulié en télétravail
 
 ### *Vos impressions (Le stage a-t-il répondu à vos attentes? Quelque chose vous a-t-il surpris? Des déceptions? etc.)*
 
-- **Arnaud Cartailler** : Le stage a été enrichissant du point de vue "vie d'entreprise" et du travail de chaque pôle. Le travail en soi (Voir technos utilisés) n'était pas une grande surprise et difficultée. J'aurai aimé être confronté à plus de difficultés : charge de travail en plus, utiliser d'autres technos.
+- **Nicolas** : J'ai tout d'abord pu découvrir le monde du télétravail, ce qui aura été une expérience enrichissante. J'ai été surpris par les outils mit en place permettant de travailler éfficacement et avec peu d'expérience.     Cependant, j'aurai bien aimé avoir l'occasion de découvrir plus en profondeur la logique de programmation développé derrière ces différents outils mais un mois est trop court.
+
 
 ### *Une idée pour le stage de janvier? (Quel type d'entreprise? Une entreprise en particulier? Front/Back? Ou 'D', la réponse 'D')*
 
-- **Arnaud Cartailler** : Une entreprise de plus petite taille où je pourrais toucher aussi bien au Front qu'au Back. 
+- **Nicolas** : Je suis aussi bien attiré par une entreprise de petite taille comme de grande taille. Je dirai que je suis aussi bien attiré par le Front que le Back, malgrès une petite préfèrence pour le Back. L'une de mes pistes principales serait de retourner chez 90Tech, ou d'aller chez Sopra Steria.
