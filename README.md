@@ -7,6 +7,7 @@
 - **Pierre Dumont** : Agence web
 - **Justine Lebbrecht** : Facultée informatique de Lille 1
 - **Jessy Fouace** : SAS
+- **Nicolas** : Start up
 
 ### *Sur quelles technos, quels langages et outils?*
 
@@ -15,6 +16,7 @@
 - **Pierre Dumont** : Prestashop, Sass, Webpack, Javascript/Jquery, PHP/SQL, HTML/CSS, Grunt&Compass, MJML, Git
 - **Justine Lebbrecht** : Python 3.5, Django 1.11, Javascript.
 - **Jessy Fouace** : HTML/CSS, JS, Ajax, NodeJs(vite fais), JSON, Docker(Liaison keycloak avec back), Keycloak(Gestion pannel connection plus simple)
+- **Nicolas** : HTML/CSS (Bootstrap), HandleBarsJS, PhantomJS
 
 ### *Sur quels projets? (Projets internes? En production? Décrivez en quelques mots)*
   
@@ -23,7 +25,10 @@
 - **Pierre Dumont** Intégration d'éléments pour PizzaPai, utilisant WebPack et Sass pour compiler le css et le js. Intégration d'éléments pour Transpole, utilisant Grunt pour compiler le css et le js avec Compass. Utilisation de MJML pour faire de l'intégration d'e-mail et utilisation de GitLab et appliquant de nouvelles methodes de Git.
 - **Justine Lebbrecht** : Sur l'une de leur plateforme vidéo fonctionnant avec Django 1.11.
 - **Jessy Fouace** : Création d'une application qui permet de référencer toutes les applications utiliser par Norsys France, avec système de connection et système de favoris.
-
+- **Nicolas** : Création de template en HTML/CSS pour devis, factures, rapports d'interventions;
+                Test de retour visuel après utilisation du service PhantomJS;
+                Création de type permettant la génération de variables uniques;
+                Intégration de ces variables dans les templates via HandleBarsJS; 
 
 ### *Citez une réussite lors de votre stage*
 
@@ -32,6 +37,7 @@
 - **Pierre Dumont** : Avoir appliqué tout ce que j'ai appris sur un projet personnel.
 - **Justine Lebbrecht** : Avoir régler un soucis d'affichage de vidéo à l'accueil.
 - **Jessy Fouace** : Avoir réussis en groupe à faire un travail propre (a mon avis) et de finaliser le travail malgrès les nouveau languages utiliser.
+- **Nicolas** : Avoir été capable grâce à des outils simples d'être rapidement productif.
 
 ### *Citez la plus grosse difficulté rencontrée*
 
@@ -40,6 +46,7 @@
 - **Pierre Dumont** : Devoir réparer un bouton d'envoi de CV qui a été "cassé" suite à un message d'erreur en Jquery. (le message d'erreur était dans la balise d'envoi, foutant en l'air le bouton, la solution était de déplacer le message hors de la balise)
 - **Justine Lebbrecht** : Comprendre le fonctionnement du site.
 - **Jessy Fouace** : Réussir à comprendre comment bien utiliser Ajax et Json pour la liaison.
+- **Nicolas** : être régulié en télétravail
 
 ### *Vos impressions (Le stage a-t-il répondu à vos attentes? Quelque chose vous a-t-il surpris? Des déceptions? etc.)*
 
@@ -48,6 +55,7 @@
 - **Pierre Dumont** : Super ambiance, ce stage m'a permis de découvrir de nouvelles technologies et de voir une meilleure vision du monde du travail. 
 - **Justine Lebbrecht** : Le stage a été interressant j'ai pu découvrir un language qui m'intriger. Je suis arrivée un peu au mauvais moment mais les personnes étaient sympatique. J'ai pu voir les galères d'organisations de la fac et comment ils gèrent leur demande. J'étais juste un peu déçue de ne pas avoir vue mon maitre de stage souvent car j'aurais voulus être plus curieuse mais en mail je trouve cela plus compliqué. Car je ne savais pas si je pouvais modifier des choses ou non.
 - **Jessy Fouace** : Début difficile, dû à l'apprentissage de différent languages simultanément. Au bout de 2 semaines, sa a commencer à être plus simples à partir du moment ou on a attribuer un développeur pour nous aider avec la relation Front/Back requêtes ajax...
+- **Nicolas** : J'ai tout d'abord pu découvrir le monde du télétravail, ce qui aura été une expérience enrichissante. J'ai été surpris par les outils mit en place permettant de travailler éfficacement et avec peu d'expérience.     Cependant, j'aurai bien aimé avoir l'occasion de découvrir plus en profondeur la logique de programmation développé derrière ces différents outils mais un mois est trop court.
 
 ### *Une idée pour le stage de janvier? (Quel type d'entreprise? Une entreprise en particulier? Front/Back? Ou 'D', la réponse 'D')*
 
@@ -56,4 +64,5 @@
 - **Pierre Dumont** : J'avais pensé retourner dans mon stage, mais on m'a conseillé de faire un stage autre part pour voir une autre façon de travailler. J'aimerais viser une agence de web qui fait du Front et du Symphony
 - **Justine Lebbrecht** : La réponse D car je n'ai pas vraiment d'idée mais je sais que je peux les recontacter pour le stage de janvier.
 - **Jessy Fouace**: Faire du back en PHP si possible, c'est le language auquels je me sens le plus à l'aise.
-  
+- **Nicolas** : Je suis aussi bien attiré par une entreprise de petite taille comme de grande taille. Je dirai que je suis aussi bien attiré par le Front que le Back, malgrès une petite préfèrence pour le Back. L'une de mes pistes principales serait de retourner chez 90Tech, ou d'aller chez Sopra Steria.
+
