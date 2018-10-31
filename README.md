@@ -2,7 +2,8 @@
 
 ### *Dans quel type d'entreprise? (ESN, agence web, start up, etc.)*
 
-- **Arnaud Cartailler** : SAS
+- **Arnaud Cartailler** : SA
+- **Antoine** : Even
 - **Léa Loncke** : Entreprise de Services du Numérique (je crois)
 - **Paul Decoux** : Agence web
 - **Paul Giraudet** : Site E-commerce
@@ -10,11 +11,12 @@
 - **Pierre Dumont** : Agence web
 - **Justine Lebbrecht** : Facultée informatique de Lille 1
 - **Jessy Fouace** : SAS
-- **Nicolas** : Start up
+- **Nicolas** : Start u
 
 ### *Sur quelles technos, quels langages et outils?*
 
-- **Arnaud Cartailler** : HTML/CSS, Data-Aos, Bootstrap.
+- **Arnaud Cartailler** : HTML/CSS, Data-Aos, Bootstrap
+- **Antoine** : HTML/CSS(SASS), PHP 7, JavaSript, Bootstrap, Semantic-UI
 - **Léa Loncke** : HTML/CSS, JS, CodePen
 - **Paul Decoux** : HAML/SASS, Bootstrap, Ruby on rails
 - **Paul Giraudet** : NodeJS, AWS, fichiers JSON
@@ -22,11 +24,12 @@
 - **Pierre Dumont** : Prestashop, Sass, Webpack, Javascript/Jquery, PHP/SQL, HTML/CSS, Grunt&Compass, MJML, Git
 - **Justine Lebbrecht** : Python 3.5, Django 1.11, Javascript.
 - **Jessy Fouace** : HTML/CSS, JS, Ajax, NodeJs(vite fais), JSON, Docker(Liaison keycloak avec back), Keycloak(Gestion pannel connection plus simple)
-- **Nicolas** : HTML/CSS (Bootstrap), HandleBarsJS, PhantomJS
+- **Nicolas** : HTML/CSS (Bootstrap), HandleBarsJS, PhantomJ
 
 ### *Sur quels projets? (Projets internes? En production? Décrivez en quelques mots)*
   
 - **Arnaud Cartailler** : Exercice type de création de lookbook : de la récupération d'images, à la création de la maquette via Photoshop puis à l'intégration en mobile first.
+- **Antoine** : Travail sur un projet en production, amélioration du site, Semantic HTML5, page d'administration.
 - **Léa Loncke** : Amélioration de zones de page web.
 - **Paul Decoux** : Projets interne (intranet)
 - **Paul Giraudet** : Projet pour l'interface backend du site. Affichage des 10 dernières commandes en live.
@@ -42,6 +45,7 @@
 ### *Citez une réussite lors de votre stage*
 
 - **Arnaud Cartailler** : Avoir répondu aux attentes des consignes et chaque projet sous 1 journée et demi.
+- **Antoine**: Création d'une page administration pouvant gérer Ajout/Update/Delete blog, atelier. Upload image et newsletter.
 - **Léa Loncke** : Mes rendus étaient simples et épurés, ce qui a plu à mon tuteur de stage.
 - **Paul Decoux** : Design du site
 - **Paul Giraudet** : L'autonomie
@@ -54,6 +58,7 @@
 ### *Citez la plus grosse difficulté rencontrée*
 
 - **Arnaud Cartailler** : Devoir prendre en main photoshop le plus rapidement possible.
+- **Antoine** : Sûrement, devoir trouver la cause d'un long chargement de page, finalement c'était à cause des images en 4K faisant 20Mo chacune, que ça soit en mobile, desktop ou tablet.
 - **Léa Loncke** : Communiquer avec mon tuteur de stage.
 - **Paul Decoux** : Prise en main de tout les nouveau language notamment Ruby
 - **Paul Giraudet** : L'apprentissage des différents AWS que je devais utiliser.
@@ -66,6 +71,7 @@
 ### *Vos impressions (Le stage a-t-il répondu à vos attentes? Quelque chose vous a-t-il surpris? Des déceptions? etc.)*
 
 - **Arnaud Cartailler** : Le stage a été enrichissant du point de vue "vie d'entreprise" et du travail de chaque pôle. Le travail en soi (Voir technos utilisés) n'était pas une grande surprise et difficultée. J'aurai aimé être confronté à plus de difficultés : charge de travail en plus, utiliser d'autres technos.
+- **Antoine** : Travail en total autonomie, ne pas avoir quelqu'un derrière mon dos.
 - **Léa Loncke** : Je n'ai pas découvert de nouveaux langages, et je n'ai pas régulièrement vu mon tuteur de stage. Donc oui, j'ai été un peu déçue de mon stage en général... 
 - **Paul Decoux** : Bon stage ! 
 - **Paul Giraudet** : J'aurai aimé avoir une approche FrontEnd en plus de mon approche BackEnd de l'entreprise.
@@ -78,6 +84,7 @@
 ### *Une idée pour le stage de janvier? (Quel type d'entreprise? Une entreprise en particulier? Front/Back? Ou 'D', la réponse 'D')*
 
 - **Arnaud Cartailler** : Une entreprise de plus petite taille où je pourrais toucher aussi bien au Front qu'au Back. 
+- **Antoine**: Une entreprise dite "start-up" pouvant avoir un poste Full-Stack, n'ayant pas encore trouvé de technologies intéressante pouvant dire que je souhaite me spécialisé dans ce language.
 - **Léa Loncke** : Aucune idée, peut-être une moyenne entreprise où je pourrais faire du PHP/Symphony...
 - **Paul Decoux** :Une plus grosse entreprise, aucunes idées, aucunes idées.
 - **Paul Giraudet** : Pour l'instant pas d'idées.
@@ -86,4 +93,5 @@
 - **Justine Lebbrecht** : La réponse D car je n'ai pas vraiment d'idée mais je sais que je peux les recontacter pour le stage de janvier.
 - **Jessy Fouace**: Faire du back en PHP si possible, c'est le language auquels je me sens le plus à l'aise.
 - **Nicolas** : Je suis aussi bien attiré par une entreprise de petite taille comme de grande taille. Je dirai que je suis aussi bien attiré par le Front que le Back, malgrès une petite préfèrence pour le Back. L'une de mes pistes principales serait de retourner chez 90Tech, ou d'aller chez Sopra Steria.
+
 
