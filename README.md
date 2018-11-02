@@ -13,6 +13,8 @@
 - **Jessy Fouace** : SAS
 - **Nicolas** : Start u
 - **Muddather** : Entreprise de Communication.
+- **Pierre Demailly** : SA
+
 
 ### *Sur quelles technos, quels langages et outils?*
 
@@ -27,6 +29,8 @@
 - **Jessy Fouace** : HTML/CSS, JS, Ajax, NodeJs(vite fais), JSON, Docker(Liaison keycloak avec back), Keycloak(Gestion pannel connection plus simple)
 - **Nicolas** : HTML/CSS (Bootstrap), HandleBarsJS, PhantomJ
 - **Muddather** : Wordpress, HTML/CSS3.
+
+- **PierreDemailly** : Angular 6, Material Angular
 
 ### *Sur quels projets? (Projets internes? En production? Décrivez en quelques mots)*
   
@@ -45,6 +49,7 @@
                 Intégration de ces variables dans les templates via HandleBarsJS; 
                 
 - **Muddather** : Création de site web (http://www.myfamilyaffair.fr), et changer certaines propiétés dans une site qui existe dèja (melteam.com) en ajoutant Mobile First;
+- **Pierre Demailly** : Refonte totale du site interne de Vinci Autoroutes.
 
 ### *Citez une réussite lors de votre stage*
 
@@ -59,6 +64,7 @@
 - **Jessy Fouace** : Avoir réussis en groupe à faire un travail propre (a mon avis) et de finaliser le travail malgrès les nouveau languages utiliser.
 - **Nicolas** : Avoir été capable grâce à des outils simples d'être rapidement productif.
 - **Muddather** : Avoir fait le word press grâce â la recherche sur internet et un grafiste qu'y travaille.
+- **Pierre Demailly** : Avoir fait tout le boulot demandé par mon manager.
 
 ### *Citez la plus grosse difficulté rencontrée*
 
@@ -73,6 +79,7 @@
 - **Jessy Fouace** : Réussir à comprendre comment bien utiliser Ajax et Json pour la liaison.
 - **Nicolas** : être régulié en télétravail
 - **Muddather** : être productif, et quand je suis bloqué il n'y a pas d'auter développeur web pour m'aide pour régler le problème.
+- **Pierre Demailly** : Créer le service d'internationalisation avec l'api i18n.
 
 ### *Vos impressions (Le stage a-t-il répondu à vos attentes? Quelque chose vous a-t-il surpris? Des déceptions? etc.)*
 
@@ -87,6 +94,7 @@
 - **Jessy Fouace** : Début difficile, dû à l'apprentissage de différent languages simultanément. Au bout de 2 semaines, sa a commencer à être plus simples à partir du moment ou on a attribuer un développeur pour nous aider avec la relation Front/Back requêtes ajax...
 - **Nicolas** : J'ai tout d'abord pu découvrir le monde du télétravail, ce qui aura été une expérience enrichissante. J'ai été surpris par les outils mit en place permettant de travailler éfficacement et avec peu d'expérience.     Cependant, j'aurai bien aimé avoir l'occasion de découvrir plus en profondeur la logique de programmation développé derrière ces différents outils mais un mois est trop court.
 - **Muddather** : il est très intrressant j'ai dèja découvert des choses nouvelles, (comment des émployers se contactent avec aux même dans l'entreprise. en faite j'était trop estrssé quand j'ai commencé le sage mais grâce à aux comme il sont sympa j'ai controlé la sitiuation.
+- **Pierre Demailly** : C'est passé trop vite!
 
 ### *Une idée pour le stage de janvier? (Quel type d'entreprise? Une entreprise en particulier? Front/Back? Ou 'D', la réponse 'D')*
 
@@ -101,5 +109,6 @@
 - **Jessy Fouace**: Faire du back en PHP si possible, c'est le language auquels je me sens le plus à l'aise.
 - **Nicolas** : Je suis aussi bien attiré par une entreprise de petite taille comme de grande taille. Je dirai que je suis aussi bien attiré par le Front que le Back, malgrès une petite préfèrence pour le Back. L'une de mes pistes principales serait de retourner chez 90Tech, ou d'aller chez Sopra Steria.
 - **Muddather** : je préfère de faire un stage dans une entreprise petite (numérique/Back).
+- **Pierre Demailly** : Normalement IBM me réservent une place pour mon stage de Janvier.
 
 
