@@ -2,18 +2,8 @@
 
 ### *Dans quel type d'entreprise? (ESN, agence web, start up, etc.)*
 
-- **Toto** : ESN
-- **John Doe** : Freelance
 - **Arnaud Cartailler** : SAS
 - **Balen Akoi** : SAS
-
-### *Sur quelles technos, quels langages et outils?*
-
-- **Toto** : PHP/Symfony, AWS, Docker
-- **John Doe** : HTML/CSS, Bootstrap, WordPress
-- **Arnaud Cartailler** : HTML/CSS, Data-Aos, Bootstrap.
-- **Balen** : HTML/CSS, JavaScript, nodejs ,Json, Docker, Ajax, Keycloak.
-- **Arnaud Cartailler** : SA
 - **Antoine** : Even
 - **Léa Loncke** : Entreprise de Services du Numérique (je crois)
 - **Paul Decoux** : Agence web
@@ -25,12 +15,13 @@
 - **Muddather** : Entreprise de Communication.
 - **Nicolas** : Start-up
 - **Bagadi** : SAS
-- **Pierre Demailly** : SA
+- **Pierre Demailly** : SAS
 
 
 ### *Sur quelles technos, quels langages et outils?*
 
 - **Arnaud Cartailler** : HTML/CSS, Data-Aos, Bootstrap
+- **Balen** : HTML/CSS, JavaScript, nodejs ,Json, Docker, Ajax, Keycloak.
 - **Antoine** : HTML/CSS(SASS), PHP 7, JavaSript, Bootstrap, Semantic-UI
 - **Léa Loncke** : HTML/CSS, JS, CodePen
 - **Paul Decoux** : HAML/SASS, Bootstrap, Ruby on rails
@@ -101,6 +92,7 @@
 ### *Vos impressions (Le stage a-t-il répondu à vos attentes? Quelque chose vous a-t-il surpris? Des déceptions? etc.)*
 
 - **Arnaud Cartailler** : Le stage a été enrichissant du point de vue "vie d'entreprise" et du travail de chaque pôle. Le travail en soi (Voir technos utilisés) n'était pas une grande surprise et difficultée. J'aurai aimé être confronté à plus de difficultés : charge de travail en plus, utiliser d'autres technos.
+- **Balen** : J'ai appris plus de choses que ce que j'avais imaginé.
 - **Antoine** : Travail en total autonomie, ne pas avoir quelqu'un derrière mon dos.
 - **Léa Loncke** : Je n'ai pas découvert de nouveaux langages, et je n'ai pas régulièrement vu mon tuteur de stage. Donc oui, j'ai été un peu déçue de mon stage en général... 
 - **Paul Decoux** : Bon stage ! 
@@ -114,12 +106,11 @@
 - **bagadi** : le stage a été interressant mais court, il était comme je l'ai imaginer 
 - **Pierre Demailly** : C'est passé trop vite!
 
-**Balen** : J'ai appris plus de choses que ce que j'avais imaginé.
 
 ### *Une idée pour le stage de janvier? (Quel type d'entreprise? Une entreprise en particulier? Front/Back? Ou 'D', la réponse 'D')*
 
 - **Arnaud Cartailler** : Une entreprise de plus petite taille où je pourrais toucher aussi bien au Front qu'au Back. 
--**Balen** Une entreprise  plus petite et de faire du Back en PHP.
+- **Balen** Une entreprise  plus petite et de faire du Back en PHP.
 - **Antoine**: Une entreprise dite "start-up" pouvant avoir un poste Full-Stack, n'ayant pas encore trouvé de technologies intéressante pouvant dire que je souhaite me spécialisé dans ce language.
 - **Léa Loncke** : Aucune idée, peut-être une moyenne entreprise où je pourrais faire du PHP/Symphony...
 - **Paul Decoux** :Une plus grosse entreprise, aucunes idées, aucunes idées.
