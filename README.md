@@ -12,6 +12,7 @@
 - **Justine Lebbrecht** : Facultée informatique de Lille 1
 - **Jessy Fouace** : SAS
 - **Nicolas** : Start u
+- **Pierre Demailly** : SA
 
 ### *Sur quelles technos, quels langages et outils?*
 
@@ -25,6 +26,7 @@
 - **Justine Lebbrecht** : Python 3.5, Django 1.11, Javascript.
 - **Jessy Fouace** : HTML/CSS, JS, Ajax, NodeJs(vite fais), JSON, Docker(Liaison keycloak avec back), Keycloak(Gestion pannel connection plus simple)
 - **Nicolas** : HTML/CSS (Bootstrap), HandleBarsJS, PhantomJ
+- **PierreDemailly** : Angular 6, Material Angular
 
 ### *Sur quels projets? (Projets internes? En production? Décrivez en quelques mots)*
   
@@ -41,6 +43,7 @@
                 Test de retour visuel après utilisation du service PhantomJS;
                 Création de type permettant la génération de variables uniques;
                 Intégration de ces variables dans les templates via HandleBarsJS; 
+- **Pierre Demailly** : Refonte totale du site interne de Vinci Autoroutes.
 
 ### *Citez une réussite lors de votre stage*
 
@@ -54,6 +57,7 @@
 - **Justine Lebbrecht** : Avoir régler un soucis d'affichage de vidéo à l'accueil.
 - **Jessy Fouace** : Avoir réussis en groupe à faire un travail propre (a mon avis) et de finaliser le travail malgrès les nouveau languages utiliser.
 - **Nicolas** : Avoir été capable grâce à des outils simples d'être rapidement productif.
+- **Pierre Demailly** : Avoir fait tout le boulot demandé par mon manager.
 
 ### *Citez la plus grosse difficulté rencontrée*
 
@@ -66,7 +70,8 @@
 - **Pierre Dumont** : Devoir réparer un bouton d'envoi de CV qui a été "cassé" suite à un message d'erreur en Jquery. (le message d'erreur était dans la balise d'envoi, foutant en l'air le bouton, la solution était de déplacer le message hors de la balise)
 - **Justine Lebbrecht** : Comprendre le fonctionnement du site.
 - **Jessy Fouace** : Réussir à comprendre comment bien utiliser Ajax et Json pour la liaison.
-- **Nicolas** : être régulié en télétravail
+- **Nicolas** : être régulié en télétravail.
+- **Pierre Demailly** : Créer le service d'internationalisation avec l'api i18n.
 
 ### *Vos impressions (Le stage a-t-il répondu à vos attentes? Quelque chose vous a-t-il surpris? Des déceptions? etc.)*
 
@@ -80,6 +85,7 @@
 - **Justine Lebbrecht** : Le stage a été interressant j'ai pu découvrir un language qui m'intriger. Je suis arrivée un peu au mauvais moment mais les personnes étaient sympatique. J'ai pu voir les galères d'organisations de la fac et comment ils gèrent leur demande. J'étais juste un peu déçue de ne pas avoir vue mon maitre de stage souvent car j'aurais voulus être plus curieuse mais en mail je trouve cela plus compliqué. Car je ne savais pas si je pouvais modifier des choses ou non.
 - **Jessy Fouace** : Début difficile, dû à l'apprentissage de différent languages simultanément. Au bout de 2 semaines, sa a commencer à être plus simples à partir du moment ou on a attribuer un développeur pour nous aider avec la relation Front/Back requêtes ajax...
 - **Nicolas** : J'ai tout d'abord pu découvrir le monde du télétravail, ce qui aura été une expérience enrichissante. J'ai été surpris par les outils mit en place permettant de travailler éfficacement et avec peu d'expérience.     Cependant, j'aurai bien aimé avoir l'occasion de découvrir plus en profondeur la logique de programmation développé derrière ces différents outils mais un mois est trop court.
+- **Pierre Demailly** : C'est passé trop vite!
 
 ### *Une idée pour le stage de janvier? (Quel type d'entreprise? Une entreprise en particulier? Front/Back? Ou 'D', la réponse 'D')*
 
@@ -93,5 +99,6 @@
 - **Justine Lebbrecht** : La réponse D car je n'ai pas vraiment d'idée mais je sais que je peux les recontacter pour le stage de janvier.
 - **Jessy Fouace**: Faire du back en PHP si possible, c'est le language auquels je me sens le plus à l'aise.
 - **Nicolas** : Je suis aussi bien attiré par une entreprise de petite taille comme de grande taille. Je dirai que je suis aussi bien attiré par le Front que le Back, malgrès une petite préfèrence pour le Back. L'une de mes pistes principales serait de retourner chez 90Tech, ou d'aller chez Sopra Steria.
+- **Pierre Demailly** : Normalement IBM me réservent une place pour mon stage de Janvier.
 
 
