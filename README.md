@@ -2,7 +2,8 @@
 
 ### *Dans quel type d'entreprise? (ESN, agence web, start up, etc.)*
 
-- **Arnaud Cartailler** : SA
+- **Arnaud Cartailler** : SAS
+- **Balen Akoi** : SAS
 - **Antoine** : Even
 - **Léa Loncke** : Entreprise de Services du Numérique (je crois)
 - **Paul Decoux** : Agence web
@@ -11,12 +12,16 @@
 - **Pierre Dumont** : Agence web
 - **Justine Lebbrecht** : Facultée informatique de Lille 1
 - **Jessy Fouace** : SAS
-- **Nicolas** : Start u
 - **Jean-Charles Graillot** : Auto entrepreneur
+- **Muddather** : Entreprise de Communication.
+- **Nicolas** : Start-up
+- **Bagadi** : SAS
+- **Pierre Demailly** : SAS
 
 ### *Sur quelles technos, quels langages et outils?*
 
 - **Arnaud Cartailler** : HTML/CSS, Data-Aos, Bootstrap
+- **Balen** : HTML/CSS, JavaScript, nodejs ,Json, Docker, Ajax, Keycloak.
 - **Antoine** : HTML/CSS(SASS), PHP 7, JavaSript, Bootstrap, Semantic-UI
 - **Léa Loncke** : HTML/CSS, JS, CodePen
 - **Paul Decoux** : HAML/SASS, Bootstrap, Ruby on rails
@@ -27,10 +32,14 @@
 - **Jessy Fouace** : HTML/CSS, JS, Ajax, NodeJs(vite fais), JSON, Docker(Liaison keycloak avec back), Keycloak(Gestion pannel connection plus simple)
 - **Nicolas** : HTML/CSS (Bootstrap), HandleBarsJS, PhantomJ
 - **Jean-Charles Graillot** : Wordpress, Elementor (plug-in page builder pour wordpress)
+- **Muddather** : Wordpress, HTML/CSS3.
+- **Bagadi** : HTML/CSS, JS, JSON, AJAX, Nodejs, Docker KeyCloak 
+- **PierreDemailly** : Angular 6, Material Angular
 
 ### *Sur quels projets? (Projets internes? En production? Décrivez en quelques mots)*
   
 - **Arnaud Cartailler** : Exercice type de création de lookbook : de la récupération d'images, à la création de la maquette via Photoshop puis à l'intégration en mobile first.
+- **Balen** : Norsys-home: c'est une application qui permet de référencer toutes les applications utiliser par Norsys France, avec système de connection et système de favoris.
 - **Antoine** : Travail sur un projet en production, amélioration du site, Semantic HTML5, page d'administration.
 - **Léa Loncke** : Amélioration de zones de page web.
 - **Paul Decoux** : Projets interne (intranet)
@@ -45,12 +54,15 @@
                 Intégration de ces variables dans les templates via HandleBarsJS;
 - **Jean-Charles Graillot** : Ajout de fiches de sites utilisant l'outil elementor sur un site à lui pour présenter le genre de travail que l'outil permet d'effectuer;
                               Ajout de professionnels travaillant dans la zone géographique des 2 caps sur un site annuaire qui affichera des infos des informations détaillées si le professionnel paie le service;
-                              Travail sur un site perso qui a consisté à refaire un site déjà fait en utilisant elementor.
-                              
+                              Travail sur un site perso qui a consisté à refaire un site déjà fait en utilisant elementor.                              
+- **Muddather** : Création de site web (http://www.myfamilyaffair.fr), et changer certaines propiétés dans une site qui existe dèja (melteam.com) en ajoutant Mobile First;
+- **Bagadi** :Création d'un site qui regroupe toutes les application de norsys pour pouvoir login qu'une seule fois.
+- **Pierre Demailly** : Refonte totale du site interne de Vinci Autoroutes.
 
 ### *Citez une réussite lors de votre stage*
 
 - **Arnaud Cartailler** : Avoir répondu aux attentes des consignes et chaque projet sous 1 journée et demi.
+- **Balen** Travail de groupe et être prêt pour les 3 demo que l'on a eu.
 - **Antoine**: Création d'une page administration pouvant gérer Ajout/Update/Delete blog, atelier. Upload image et newsletter.
 - **Léa Loncke** : Mes rendus étaient simples et épurés, ce qui a plu à mon tuteur de stage.
 - **Paul Decoux** : Design du site
@@ -61,10 +73,14 @@
 - **Jessy Fouace** : Avoir réussis en groupe à faire un travail propre (a mon avis) et de finaliser le travail malgrès les nouveau languages utiliser.
 - **Nicolas** : Avoir été capable grâce à des outils simples d'être rapidement productif.
 - **Jean-Charles Graillot** : La découverte de la façon de s'organiser et de fonctionner d'un indépendant.
+- **Muddather** : Avoir fait le word press grâce â la recherche sur internet et un grafiste qu'y travaille.
+- **Bagadi** : travail en groupe 
+- **Pierre Demailly** : Avoir fait tout le boulot demandé par mon manager.
 
 ### *Citez la plus grosse difficulté rencontrée*
 
 - **Arnaud Cartailler** : Devoir prendre en main photoshop le plus rapidement possible.
+- **Balen** : Apprendre des nouveaux langages en 10 jours.
 - **Antoine** : Sûrement, devoir trouver la cause d'un long chargement de page, finalement c'était à cause des images en 4K faisant 20Mo chacune, que ça soit en mobile, desktop ou tablet.
 - **Léa Loncke** : Communiquer avec mon tuteur de stage.
 - **Paul Decoux** : Prise en main de tout les nouveau language notamment Ruby
@@ -75,10 +91,14 @@
 - **Jessy Fouace** : Réussir à comprendre comment bien utiliser Ajax et Json pour la liaison.
 - **Nicolas** : être régulié en télétravail
 - **Jean-Charles Graillot** : Me remettre dan le bain de wordpress.
+- **Muddather** : être productif, et quand je suis bloqué il n'y a pas d'auter développeur web pour m'aide pour régler le problème.
+- **bagadi** : deplacement, comprendre les  nouveaux languages 
+- **Pierre Demailly** : Créer le service d'internationalisation avec l'api i18n.
 
 ### *Vos impressions (Le stage a-t-il répondu à vos attentes? Quelque chose vous a-t-il surpris? Des déceptions? etc.)*
 
 - **Arnaud Cartailler** : Le stage a été enrichissant du point de vue "vie d'entreprise" et du travail de chaque pôle. Le travail en soi (Voir technos utilisés) n'était pas une grande surprise et difficultée. J'aurai aimé être confronté à plus de difficultés : charge de travail en plus, utiliser d'autres technos.
+- **Balen** : J'ai appris plus de choses que ce que j'avais imaginé.
 - **Antoine** : Travail en total autonomie, ne pas avoir quelqu'un derrière mon dos.
 - **Léa Loncke** : Je n'ai pas découvert de nouveaux langages, et je n'ai pas régulièrement vu mon tuteur de stage. Donc oui, j'ai été un peu déçue de mon stage en général... 
 - **Paul Decoux** : Bon stage ! 
@@ -89,10 +109,14 @@
 - **Jessy Fouace** : Début difficile, dû à l'apprentissage de différent languages simultanément. Au bout de 2 semaines, sa a commencer à être plus simples à partir du moment ou on a attribuer un développeur pour nous aider avec la relation Front/Back requêtes ajax...
 - **Nicolas** : J'ai tout d'abord pu découvrir le monde du télétravail, ce qui aura été une expérience enrichissante. J'ai été surpris par les outils mit en place permettant de travailler éfficacement et avec peu d'expérience.     Cependant, j'aurai bien aimé avoir l'occasion de découvrir plus en profondeur la logique de programmation développé derrière ces différents outils mais un mois est trop court.
 - **Jean-Charles Graillot** : J'ai été un peu déçu d'un point de vue technique car je n'ai fait qu'utiliser un cms et ses plugins, sans retoucher au code réellement. D'un autre côté, j'ai pu découvrir la façon de travailler d'un indépendant.
+- **Muddather** : il est très intrressant j'ai dèja découvert des choses nouvelles, (comment des émployers se contactent avec aux même dans l'entreprise. en faite j'était trop estrssé quand j'ai commencé le sage mais grâce à aux comme il sont sympa j'ai controlé la sitiuation.
+- **bagadi** : le stage a été interressant mais court, il était comme je l'ai imaginer 
+- **Pierre Demailly** : C'est passé trop vite!
 
 ### *Une idée pour le stage de janvier? (Quel type d'entreprise? Une entreprise en particulier? Front/Back? Ou 'D', la réponse 'D')*
 
 - **Arnaud Cartailler** : Une entreprise de plus petite taille où je pourrais toucher aussi bien au Front qu'au Back. 
+- **Balen** Une entreprise  plus petite et de faire du Back en PHP.
 - **Antoine**: Une entreprise dite "start-up" pouvant avoir un poste Full-Stack, n'ayant pas encore trouvé de technologies intéressante pouvant dire que je souhaite me spécialisé dans ce language.
 - **Léa Loncke** : Aucune idée, peut-être une moyenne entreprise où je pourrais faire du PHP/Symphony...
 - **Paul Decoux** :Une plus grosse entreprise, aucunes idées, aucunes idées.
@@ -103,5 +127,8 @@
 - **Jessy Fouace**: Faire du back en PHP si possible, c'est le language auquels je me sens le plus à l'aise.
 - **Nicolas** : Je suis aussi bien attiré par une entreprise de petite taille comme de grande taille. Je dirai que je suis aussi bien attiré par le Front que le Back, malgrès une petite préfèrence pour le Back. L'une de mes pistes principales serait de retourner chez 90Tech, ou d'aller chez Sopra Steria.
 - **Jean-Charles Graillot** : Pas trop d'idée, plus une entreprise de moyenne/petite taille avec des technos que l'on a déjà pu étudier, idéalement qui ferait plus de front notamment javascript que je puisse m'améliorer là dessus.
+- **Muddather** : je préfère de faire un stage dans une entreprise petite (numérique/Back).
+- **Bagadi** : une petite entrprise front JavaScript ou PHP.
+- **Pierre Demailly** : Normalement IBM me réservent une place pour mon stage de Janvier.
 
 
