@@ -12,6 +12,7 @@
 - **Justine Lebbrecht** : Facultée informatique de Lille 1
 - **Jessy Fouace** : SAS
 - **Nicolas** : Start u
+- **Jean-Charles Graillot** : Auto entrepreneur
 
 ### *Sur quelles technos, quels langages et outils?*
 
@@ -25,6 +26,7 @@
 - **Justine Lebbrecht** : Python 3.5, Django 1.11, Javascript.
 - **Jessy Fouace** : HTML/CSS, JS, Ajax, NodeJs(vite fais), JSON, Docker(Liaison keycloak avec back), Keycloak(Gestion pannel connection plus simple)
 - **Nicolas** : HTML/CSS (Bootstrap), HandleBarsJS, PhantomJ
+- **Jean-Charles Graillot** : Wordpress, Elementor (plug-in page builder pour wordpress)
 
 ### *Sur quels projets? (Projets internes? En production? Décrivez en quelques mots)*
   
@@ -40,7 +42,11 @@
 - **Nicolas** : Création de template en HTML/CSS pour devis, factures, rapports d'interventions;
                 Test de retour visuel après utilisation du service PhantomJS;
                 Création de type permettant la génération de variables uniques;
-                Intégration de ces variables dans les templates via HandleBarsJS; 
+                Intégration de ces variables dans les templates via HandleBarsJS;
+- **Jean-Charles Graillot** : Ajout de fiches de sites utilisant l'outil elementor sur un site à lui pour présenter le genre de travail que l'outil permet d'effectuer;
+                              Ajout de professionnels travaillant dans la zone géographique des 2 caps sur un site annuaire qui affichera des infos des informations détaillées si le professionnel paie le service;
+                              Travail sur un site perso qui a consisté à refaire un site déjà fait en utilisant elementor.
+                              
 
 ### *Citez une réussite lors de votre stage*
 
@@ -54,6 +60,7 @@
 - **Justine Lebbrecht** : Avoir régler un soucis d'affichage de vidéo à l'accueil.
 - **Jessy Fouace** : Avoir réussis en groupe à faire un travail propre (a mon avis) et de finaliser le travail malgrès les nouveau languages utiliser.
 - **Nicolas** : Avoir été capable grâce à des outils simples d'être rapidement productif.
+- **Jean-Charles Graillot** : La découverte de la façon de s'organiser et de fonctionner d'un indépendant.
 
 ### *Citez la plus grosse difficulté rencontrée*
 
@@ -67,6 +74,7 @@
 - **Justine Lebbrecht** : Comprendre le fonctionnement du site.
 - **Jessy Fouace** : Réussir à comprendre comment bien utiliser Ajax et Json pour la liaison.
 - **Nicolas** : être régulié en télétravail
+- **Jean-Charles Graillot** : Me remettre dan le bain de wordpress.
 
 ### *Vos impressions (Le stage a-t-il répondu à vos attentes? Quelque chose vous a-t-il surpris? Des déceptions? etc.)*
 
@@ -80,6 +88,7 @@
 - **Justine Lebbrecht** : Le stage a été interressant j'ai pu découvrir un language qui m'intriger. Je suis arrivée un peu au mauvais moment mais les personnes étaient sympatique. J'ai pu voir les galères d'organisations de la fac et comment ils gèrent leur demande. J'étais juste un peu déçue de ne pas avoir vue mon maitre de stage souvent car j'aurais voulus être plus curieuse mais en mail je trouve cela plus compliqué. Car je ne savais pas si je pouvais modifier des choses ou non.
 - **Jessy Fouace** : Début difficile, dû à l'apprentissage de différent languages simultanément. Au bout de 2 semaines, sa a commencer à être plus simples à partir du moment ou on a attribuer un développeur pour nous aider avec la relation Front/Back requêtes ajax...
 - **Nicolas** : J'ai tout d'abord pu découvrir le monde du télétravail, ce qui aura été une expérience enrichissante. J'ai été surpris par les outils mit en place permettant de travailler éfficacement et avec peu d'expérience.     Cependant, j'aurai bien aimé avoir l'occasion de découvrir plus en profondeur la logique de programmation développé derrière ces différents outils mais un mois est trop court.
+- **Jean-Charles Graillot** : J'ai été un peu déçu d'un point de vue technique car je n'ai fait qu'utiliser un cms et ses plugins, sans retoucher au code réellement. D'un autre côté, j'ai pu découvrir la façon de travailler d'un indépendant.
 
 ### *Une idée pour le stage de janvier? (Quel type d'entreprise? Une entreprise en particulier? Front/Back? Ou 'D', la réponse 'D')*
 
@@ -93,5 +102,6 @@
 - **Justine Lebbrecht** : La réponse D car je n'ai pas vraiment d'idée mais je sais que je peux les recontacter pour le stage de janvier.
 - **Jessy Fouace**: Faire du back en PHP si possible, c'est le language auquels je me sens le plus à l'aise.
 - **Nicolas** : Je suis aussi bien attiré par une entreprise de petite taille comme de grande taille. Je dirai que je suis aussi bien attiré par le Front que le Back, malgrès une petite préfèrence pour le Back. L'une de mes pistes principales serait de retourner chez 90Tech, ou d'aller chez Sopra Steria.
+- **Jean-Charles Graillot** : Pas trop d'idée, plus une entreprise de moyenne/petite taille avec des technos que l'on a déjà pu étudier, idéalement qui ferait plus de front notamment javascript que je puisse m'améliorer là dessus.
 
 
