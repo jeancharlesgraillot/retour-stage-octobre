@@ -82,7 +82,6 @@
 - **Nicolas** : être régulié en télétravail
 - **Muddather** : être productif, et quand je suis bloqué il n'y a pas d'auter développeur web pour m'aide pour régler le problème.
 - **bagadi** : deplacement, comprendre les  nouveaux languages 
-- **Nicolas** : être régulié en télétravail.
 - **Pierre Demailly** : Créer le service d'internationalisation avec l'api i18n.
 
 ### *Vos impressions (Le stage a-t-il répondu à vos attentes? Quelque chose vous a-t-il surpris? Des déceptions? etc.)*
